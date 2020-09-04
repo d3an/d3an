@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+[![website](https://img.shields.io/badge/www.jamesbury.ca-%23008DE4.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.jamesbury.ca)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-bury/)
+
 
 <!--
 **d3an/d3an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
