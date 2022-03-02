@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I mainly work in Go and Python, with a major focus on the fintech/trading niche.
+
+I'm looking to work on some innovative ideas around the intersection of old and new tech as it applies to the end user.
+
 [![website](https://img.shields.io/badge/www.jamesbury.ca-%23008DE4.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.jamesbury.ca)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-bury/)
 
